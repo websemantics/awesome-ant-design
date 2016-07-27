@@ -64,7 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 If you love Ant Design, you might also like to know about:
 
-- [PatternFly](https://www.patternfly.org): A community of designers and developers collaborating to build a UI framework for enterprise web applications.
+- [Awesome PatternFly](https://github.com/websemantics/awesome-patternfly): A list of resources for [PatternFly](https://www.patternfly.org), a community of designers and developers collaborating to build a UI framework for enterprise web applications.
 
 
 ## Contributing
