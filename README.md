@@ -16,7 +16,6 @@
     |  |  ||  |  |  |  |     |     ||     T\    | j  l |     ||  |  |        \          \     \
     l__j__jl__j__j  l__j     l_____jl_____j \___j+____jl___,_jl__j__j         \          \
 ```
-> A curated list of Ant Design resources and projects
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
