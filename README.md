@@ -23,6 +23,7 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+
 ## Resources
 
 - [Ant Design](http://ant.design/): An enterprise-class UI design language and React-based implementation.
@@ -32,6 +33,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Ant Design of React](http://react-component.github.io/badgeboard/): Graceful UI components out of the box, base on React Component.
 
 - [Ant Design of Ember](http://idcos.github.io/antd-ember/#/home): CloudJ Enterprise-class UI Framework based on Ant Design and Emberjs.
+
 
 ## Tools
 
@@ -56,6 +58,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Ant Motion](http://motion.ant.design/): A efficient motion design solutions that complies with Ant Design Visual specification with React implementation. Create your own template with this awesome tool provided by the folks at Ant Design [here](http://motion.ant.design/cases/splicing).
 
 - [Ant UX](http://ux.ant.design/): Make a sitemap template for UX design using [Omnigraffle](https://www.omnigroup.com/omnigraffle), [Sketch](https://www.sketchapp.com/) or [Axure](http://www.axure.com/). This is a library which assists designers to define, refine and finalize the inter-page logic of their products. At the early stage of the product design process, you can use it to draw the logic diagram between pages. Throughout this process, it can help you visualize and understand product architectures and business processes more easily.
+
+
+## Similar
+
+If you love Ant Design, you might also like to know about:
+
+- [PatternFly](https://www.patternfly.org): A community of designers and developers collaborating to build a UI framework for enterprise web applications.
 
 
 ## Contributing
