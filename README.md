@@ -41,7 +41,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Antd Init](https://github.com/ant-design/antd-init): Ant Design boilerplate generator.
 
-- [Antd Tools](http://ant-tool.github.io/): Tools for Ant Design of React.
+- [Antd Tools](https://github.com/ant-tool): Tools for Ant Design of React.
+- 
+- [Antd Tools Docs](http://ant-tool.github.io/): Documentations for Ant Tools.
 
 
 ## Examples
