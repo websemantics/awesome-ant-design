@@ -34,6 +34,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Ant Design of Ember](http://idcos.github.io/antd-ember/#/home): CloudJ Enterprise-class UI Framework based on Ant Design and Emberjs.
 
+- [Ant Design icons in SVG format](http://leungwensen.github.io/svg-icon/#ant): svg-icon is a project to transform regular icon fonts into SVG format, supporting Ant Design icon fonts.
+
 
 ## Tools
 
