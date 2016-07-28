@@ -28,11 +28,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Ant Design](http://ant.design/): An enterprise-class UI design language and React-based implementation.
 
-- [Ant Design of Vue](http://okoala.github.io/vue-antd/#!/components): Vue UI Components for Ant Design.
+- [Ant Design of Vue](http://okoala.github.io/vue-antd/#!/components): Vue UI components for Ant Design.
 
 - [Ant Design of React](http://react-component.github.io/badgeboard/): Graceful UI components out of the box, based on React.
 
-- [Ant Design of Ember](http://idcos.github.io/antd-ember/#/home): CloudJ Enterprise-class UI Framework based on Ant Design and Emberjs.
+- [Ant Design of Ember](http://idcos.github.io/antd-ember/#/home): CloudJ Enterprise-class UI framework based on Ant Design and Emberjs.
 
 
 ## Tools
