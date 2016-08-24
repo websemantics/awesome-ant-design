@@ -30,7 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Tools](#tools)
 - [Related Projects](#related-projects)
 - [Vue.js](#vue.js)
-- [Boilerplates](#boilerplates)
+- [Made with Ant Design](#made-with-ant-design)
 - [Applications](#applications)
 - [Similar](#similar)
 - [Contributing](#contributing)
@@ -87,10 +87,12 @@ Projects that are built with Vue.js and Ant Design,
 
 - [Vue Ant UI](https://github.com/kokoroX/vue-ant-ui): Ant UI components built in Vue.js
 
+- [Ant Design Vue](https://github.com/lileilei/Ant-design-vue): Vue version of Ant Design.
 
-## Boilerplates
 
-Starter projects, boilerplates and applications using Ant Design (mixed quality and some in early stage),
+## Made with Ant Design
+
+A mixed quality list of starter projects, boilerplates and applications built with Ant Design (some in early stage),
 
 - [Playground](https://github.com/visvadw/ant-design-playground): A playground/starter for React and Ant Design library.
 
