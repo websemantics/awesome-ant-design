@@ -31,7 +31,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Related Projects](#related-projects)
 - [Vue.js](#vue.js)
 - [Made with Ant Design](#made-with-ant-design)
+- [Components](#components)
 - [Applications](#applications)
+- [Frameworks](#frameworks)
 - [Similar](#similar)
 - [Contributing](#contributing)
 
@@ -94,6 +96,8 @@ Projects that are built with Vue.js and Ant Design,
 
 A mixed quality list of starter projects, boilerplates and applications built with Ant Design (some in early stage),
 
+- [Star Admin](https://github.com/pookpal/star-initReact-example): Demo with react, ant-design, redux, react-router, webpack and babel.
+
 - [Playground](https://github.com/visvadw/ant-design-playground): A playground/starter for React and Ant Design library.
 
 - [React SPA](https://github.com/JasonBai007/reactSPA): Starter project using React, Router, ES6, Fetch, Babel, Webpack, Npm, MockJs, FontAwesome, AnimateCSS, Antd, LESS and jQuery.
@@ -137,11 +141,27 @@ A mixed quality list of starter projects, boilerplates and applications built wi
 - [React Antd](https://github.com/okoala/react-redux-antd): React, Redux & Ant Design.
 
 
+## Components
+
+A list of UI Components built with Ant Design,
+
+- [React Grid](https://github.com/kagawagao/react-grid): Grid React UI Component, based on Ant Design.
+
+- [Antd Kit](https://github.com/huhulab/antd-kit): Advanced ant design components.
+
+
 ## Applications
 
 A list of mature apps built with Ant Design,
 
 - [Eevee](https://github.com/pizn/eevee): Based on github page online editing blog platform. The project is based React + Ant Design + GitHub API.
+
+
+## Frameworks
+
+A list of frameworks using Ant Design,
+
+- [R2](https://github.com/dog-days/r2): R2 framework can be used to scaffold apps based on [Ant Design React Components](http://ant.design/#/docs/react/introduce) built with React and Redux. R2 comes with a Page builder, Layout manager and many other features that will speed up the development process. Check out the [demo app](https://console.topvdn.com).
 
 
 ## Similar
