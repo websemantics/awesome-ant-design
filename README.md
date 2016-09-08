@@ -161,7 +161,7 @@ A list of mature apps built with Ant Design,
 
 A list of frameworks using Ant Design,
 
-- [R2](https://github.com/dog-days/r2): R2 framework can be used to scaffold apps based on [Ant Design React Components](http://ant.design/#/docs/react/introduce) built with React and Redux. R2 comes with a Page builder, Layout manager and many other features that will speed up the development process. Check out the [demo app](https://console.topvdn.com).
+- [R2](https://github.com/dog-days/r2): A framework to scaffold apps based on [Ant Design React Components](http://ant.design/#/docs/react/introduce) that is built with React and Redux. R2 comes with a Page builder, Layout manager and many other features that will speed up the development process. Check out the [demo app](https://console.topvdn.com).
 
 
 ## Similar
