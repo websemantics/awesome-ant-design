@@ -42,7 +42,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 Official projects and resources of Ant Design,
 
-- [Ant Design](http://ant.design/): An enterprise-class UI design language and React-based implementation.
+- [Ant Design](http://ant.design/): An enterprise-class UI design language and React-based implementation. Efforts to translate the site into [English](http://beta.ant.design) are already paying off and progress can be followed [here](https://github.com/ant-design/ant-design/issues/1471).
 
 - [Ant Design Mobile](http://mobile.ant.design/): A configurable Mobile UI specification and React-based implementation.
 
