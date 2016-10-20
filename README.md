@@ -29,7 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Resources](#resources)
 - [Tools](#tools)
 - [Related Projects](#related-projects)
-- [Vue.js](#vue.js)
+- [Vue.js](#vuejs)
 - [Made with Ant Design](#made-with-ant-design)
 - [Components](#components)
 - [Applications](#applications)
