@@ -16,6 +16,7 @@
     |  |  ||  |  |  |  |     |     ||     T\    | j  l |     ||  |  |        \          \     \
     l__j__jl__j__j  l__j     l_____jl_____j \___j+____jl___,_jl__j__j         \          \
 ```
+> Ant Design, a design language for middleware, is refined by Experience Technology Department of Ant Financial, aims to uniform the user interface specs for middleware projects, reduce the unnecessary cost of design differences and implementation and liberate the resources of design and front-end development.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [<img src="https://t.alipayobjects.com/images/rmsweb/T1B9hfXcdvXXXXXXXX.svg" align="right" width="200">](https://ant.design/)
@@ -59,7 +60,7 @@ These are tools and utilities to help you build apps using Ant Design,
 
 Ant Design family of projects,
 
-- [G2](https://g2.alipay.com/) - The Grammar of Graphics, a pure javascript, powerful semantic graph generation tool for big data which provides a set of graphical syntax that lets users build with simple syntax a myriad of charts and integrates a large number of statistical tools, ([Read more](https://github.com/antvis/feedback)).
+- [Grammar of Graphics](https://g2.alipay.com/) - Pure javascript, powerful semantic graph generation tool for big data which provides a set of graphical syntax that lets users build with simple syntax a myriad of charts and integrates a large number of statistical tools, ([Read more](https://github.com/antvis/feedback)).
 - [Ant Visualization](https://antv.alipay.com/) - Professional data visualization specification that aims to put several years of valuable data pattern group work in the process of exploring data visualization to share with all people who need data visualization theory. AntV consists of few parts, data, design specifications and rules for use of the chart, ([Read more](https://github.com/antvis/feedback)).
 - [Ant Motion](http://motion.ant.design/) - Efficient motion design solutions that complies with Ant Design Visual specification with React implementation. Create your own template with this awesome tool provided by the folks at Ant Design [here](http://motion.ant.design/cases/splicing).
 - [Ant UX](http://ux.ant.design/) - Make a sitemap template for UX design using [Omnigraffle](https://www.omnigroup.com/omnigraffle), [Sketch](https://www.sketchapp.com/) or [Axure](http://www.axure.com/). This is a library which assists designers to define, refine and finalize the inter-page logic of their products.
@@ -68,10 +69,10 @@ Ant Design family of projects,
 
 Projects that are built with Vue.js and Ant Design,
 
-- [Ant Design of Vue](http://okoala.github.io/vue-antd/#!/components) - Vue UI components for Ant Design.
-- [Vue Beauty](https://github.com/FE-Driver/vue-beauty) - Beautiful UI components build with vue and ant design.
-- [Vue Ant UI](https://github.com/kokoroX/vue-ant-ui) - Ant UI components built in Vue.js.
-- [Ant Design Vue](https://github.com/lileilei/Ant-design-vue) - Vue version of Ant Design.
+- [Ant Design of Vue.js](http://okoala.github.io/vue-antd/#!/components) - Vue.js UI components for Ant Design.
+- [Vue.js Beauty](https://github.com/FE-Driver/vue-beauty) - Beautiful UI components build with Vue.js and Ant Design.
+- [Vue.js Ant UI](https://github.com/kokoroX/vue-ant-ui) - Ant Design UI components built in Vue.js.
+- [Ant Design Vue](https://github.com/lileilei/Ant-design-vue) - Vue.js version of Ant Design.
 
 ## Made with Ant Design
 
