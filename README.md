@@ -16,12 +16,12 @@
     |  |  ||  |  |  |  |     |     ||     T\    | j  l |     ||  |  |        \          \     \
     l__j__jl__j__j  l__j     l_____jl_____j \___j+____jl___,_jl__j__j         \          \
 ```
-> Ant Design, a design language for middleware, is refined by Experience Technology Department of Ant Financial, aims to uniform the user interface specs for middleware projects, reduce the unnecessary cost of design differences and implementation and liberate the resources of design and front-end development.
+> A curated list of [Ant Design](http://ant.design/) resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [<img src="https://t.alipayobjects.com/images/rmsweb/T1B9hfXcdvXXXXXXXX.svg" align="right" width="200">](https://ant.design/)
 
-A curated list of [Ant Design](http://ant.design/) resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date.
+Ant Design, a design language for middleware, is refined by Experience Technology Department of Ant Financial, aims to uniform the user interface specs for middleware projects, reduce the unnecessary cost of design differences and implementation and liberate the resources of design and front-end development.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
