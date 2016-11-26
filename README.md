@@ -23,18 +23,16 @@
 
 Ant Design, a design language for middleware, is refined by Experience Technology Department of Ant Financial, aims to uniform the user interface specs for middleware projects, reduce the unnecessary cost of design differences and implementation and liberate the resources of design and front-end development.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
-
 ## Contents
 
 - [Resources](#resources)
 - [Tools](#tools)
 - [Related Projects](#related-projects)
 - [Vue.js](#vuejs)
-- [Made with Ant Design](#made-with-ant-design)
 - [Components](#components)
 - [Applications](#applications)
 - [Frameworks](#frameworks)
+- [Made with Ant Design](#made-with-ant-design)
 - [Contributing](#contributing)
 
 ## Resources
@@ -74,6 +72,25 @@ Projects that are built with Vue.js and Ant Design,
 - [Vue.js Ant UI](https://github.com/kokoroX/vue-ant-ui) - Ant Design UI components built in Vue.js.
 - [Ant Design Vue](https://github.com/lileilei/Ant-design-vue) - Vue.js version of Ant Design.
 
+## Components
+
+A list of UI components built with Ant Design,
+
+- [React Grid](https://github.com/kagawagao/react-grid) - Grid React UI Component based on Ant Design.
+- [Antd Kit](https://github.com/huhulab/antd-kit) - Advanced Ant Design components.
+
+## Applications
+
+A list of mature apps built with Ant Design,
+
+- [Eevee](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
+
+## Frameworks
+
+A list of frameworks using Ant Design,
+
+- [R2](https://github.com/dog-days/r2) - Framework to scaffold apps based on [Ant Design React Components](http://ant.design/#/docs/react/introduce) that is built with React and Redux. R2 comes with a page builder, layout manager and many other features that will speed up the development process. Check out the [demo app](https://console.topvdn.com). You will need to register and validate email to view the admin panel.
+
 ## Made with Ant Design
 
 A mixed quality list of starter projects, boilerplates and applications built with Ant Design (some in early stage),
@@ -99,26 +116,6 @@ A mixed quality list of starter projects, boilerplates and applications built wi
 - [Antd Redux Boilerplate](https://github.com/pandazki/ant-design-redux-boilerplate) - Boilerplate project base on Ant Design & Redux.
 - [React Antd Starter Kit](https://github.com/SDLyu/react-redux-antd-starter-kit) - Uses Ant Design React & Redux.
 - [React Redux Antd Starter](https://github.com/BetaRabbit/react-redux-antd-starter) - App boilerplate built with React, Redux and Ant Design.
-- [React Antd](https://github.com/okoala/react-redux-antd) - Demo app built with React, Redux & Ant Design.
-
-## Components
-
-A list of UI components built with Ant Design,
-
-- [React Grid](https://github.com/kagawagao/react-grid) - Grid React UI Component based on Ant Design.
-- [Antd Kit](https://github.com/huhulab/antd-kit) - Advanced Ant Design components.
-
-## Applications
-
-A list of mature apps built with Ant Design,
-
-- [Eevee](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
-
-## Frameworks
-
-A list of frameworks using Ant Design,
-
-- [R2](https://github.com/dog-days/r2) - Framework to scaffold apps based on [Ant Design React Components](http://ant.design/#/docs/react/introduce) that is built with React and Redux. R2 comes with a page builder, layout manager and many other features that will speed up the development process. Check out the [demo app](https://console.topvdn.com). You will need to register and validate email to view the admin panel.
 
 ## Contributing
 
