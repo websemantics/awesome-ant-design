@@ -32,7 +32,7 @@ Ant Design, a design language for middleware, is refined by Experience Technolog
 - [Components](#components)
 - [Applications](#applications)
 - [Frameworks](#frameworks)
-- [Boilerplates](#made-with-ant-design)
+- [Boilerplates](#boilerplates)
 - [Contributing](#contributing)
 
 ## Resources
