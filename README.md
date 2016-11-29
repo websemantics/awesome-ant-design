@@ -62,6 +62,7 @@ Ant Design family of projects,
 - [Ant Visualization](https://antv.alipay.com/) - Professional data visualization specification that aims to put several years of valuable data pattern group work in the process of exploring data visualization to share with all people who need data visualization theory. AntV consists of few parts, data, design specifications and rules for use of the chart, ([Read more](https://github.com/antvis/feedback)).
 - [Ant Motion](http://motion.ant.design/) - Efficient motion design solutions that complies with Ant Design Visual specification with React implementation. Create your own template with this awesome tool provided by the folks at Ant Design [here](http://motion.ant.design/cases/splicing).
 - [Ant UX](http://ux.ant.design/) - Make a sitemap template for UX design using [Omnigraffle](https://www.omnigroup.com/omnigraffle), [Sketch](https://www.sketchapp.com/) or [Axure](http://www.axure.com/). This is a library which assists designers to define, refine and finalize the inter-page logic of their products.
+- [Semantic Ant](https://github.com/websemantics/semantic-ant) - Custom theme for building beautiful modern Web apps with the combined awesomeness of Semantic-UI framework and the elegant minimal styles of Ant Design for beautiful and responsive layouts.
 
 ## Vue.js
 
@@ -95,12 +96,12 @@ A list of frameworks using Ant Design,
 
 A list of starter projects and boilerplates built with Ant Design,
 
-- [React SPA](https://github.com/JasonBai007/reactSPA) - Starter project using React, Router, ES6, Fetch, Babel, Webpack, Npm, MockJs, FontAwesome, AnimateCSS, Ant Design, LESS and jQuery.
+- [React SPA](https://github.com/JasonBai007/reactSPA) - Building SPA with React, Router, ES6, Fetch, Babel, Webpack, Npm, MockJs, FontAwesome, AnimateCSS, Ant Design, LESS and jQuery.
 - [React Admin](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456).
 - [React Redux](https://github.com/Justin-lu/react-redux-antd) - React Redux for CMS/Enterprise class apps (ERP/Admin) built with Ant Design.
-- [React Antd Starter](https://github.com/yuzhouisme/react-antd-redux-router-starter) - Starter app for building a web app using Ant Design and Redux.
+- [React Antd Starter](https://github.com/yuzhouisme/react-antd-redux-router-starter) - This project is designed to develop website/web apps using Ant Design and Redux.
 - [Webbf](https://github.com/peterchenhdu/webbf) - Java demo that uses Maven to build the backend with Spring, Spring MVC and Mybatis. React, Reflux, Eebpack, jQuery, React-bootstrap and Ant Design.
-- [React Redux Antd Starter](https://github.com/BetaRabbit/react-redux-antd-starter) - App boilerplate built with React, Redux and Ant Design.
+- [React Redux Antd Starter](https://github.com/BetaRabbit/react-redux-antd-starter) - Front-end boilerplate built with React, Redux and Ant Design.
 - [Koa](https://github.com/yukrain/koa-antd-admin) - Example app to build Admin UI built with React, Ant Design and Koa.
 - [Star Admin](https://github.com/pookpal/star-initReact-example) - Demo app built with React, Ant Design, Redux, React-router, Webpack and Babel.
 - [React Redux Intro](https://github.com/LeuisKen/react-redux-intro) - Demo app built with Ant Design and can be configured to initialize a Redux dependencies.
@@ -108,14 +109,6 @@ A list of starter projects and boilerplates built with Ant Design,
 - [CL React](https://github.com/chenliang2016/CLReactAntDesign) - Based on Ant Design front-end framework structures for enterprise back-office software.
 - [TODO MVC](https://github.com/cupools/todoMVC-react) - Todo list built with React and Ant Design.
 - [React Boilerplate](https://github.com/huhulab/react-frontend-boilerplate) - React Admin front-end boilerplate built with Ant Design.
-- [React Antd Starter Kit](https://github.com/SDLyu/react-redux-antd-starter-kit) - Uses Ant Design React & Redux.
-- [Starter Kit](https://github.com/bang88/typescript-react-redux-starter) - Starter kit built with Ant Design, Typescript, React, Redux, Webpack.
-- [Typescript React](https://github.com/yedegesong/typescript-webpack-react-antd) - Typescript example app built with Ant Design, React and Webpack.
-- [Antd Redux Boilerplate](https://github.com/pandazki/ant-design-redux-boilerplate) - Boilerplate project base on Ant Design & Redux.
-- [Semantic Ant](https://github.com/websemantics/semantic-ant) - Custom theme for building beautiful modern Web apps with the combined awesomeness of Semantic-UI framework and the elegant minimal styles of Ant Design for beautiful and responsive layouts.
-- [React Isomorphic](https://github.com/xpcode/react-isomorphic) - Example isomorphic app built with React, React-router, Redux, Koa, Koa-router.
-- [Start Kit](https://github.com/dayiner-ued/antd-start-kit) - Starter kit for Ant Design React implementation .
-- [Playground](https://github.com/visvadw/ant-design-playground) - Playground and starter app for React and Ant Design.
 
 ## Contributing
 
