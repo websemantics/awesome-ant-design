@@ -68,6 +68,7 @@ Ant Design family of projects,
 
 Projects that are built with Vue.js and Ant Design,
 
+- [iView](https://github.com/iview/iview), High quality UI Components Library with Vue.js
 - [Ant Design of Vue.js](http://okoala.github.io/vue-antd/#!/components) - Vue.js UI components for Ant Design.
 - [Vue.js Beauty](https://github.com/FE-Driver/vue-beauty) - Beautiful UI components build with Vue.js and Ant Design.
 - [Vue.js Ant UI](https://github.com/kokoroX/vue-ant-ui) - Ant Design UI components built in Vue.js.
