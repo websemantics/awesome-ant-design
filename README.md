@@ -78,7 +78,7 @@ Projects that are built with Vue.js and Ant Design,
 
 A list of UI components built with Ant Design,
 
-- [React Grid](https://github.com/kagawagao/react-grid) - Grid React UI Component based on Ant Design.
+- [React Grid](https://github.com/kagawagao/react-grid)[Deprecated] - Grid React UI Component based on Ant Design.
 - [Antd Kit](https://github.com/huhulab/antd-kit) - Advanced Ant Design components.
 
 ## Applications
