@@ -49,7 +49,9 @@ Official projects and resources of Ant Design,
 
 These are tools and utilities to help build apps using Ant Design,
 
-- [Antd Init](https://github.com/ant-design/antd-init) - Ant Design boilerplate generator.
+- [Antd Init](https://github.com/ant-design/antd-init) - Ant Design boilerplate generator (for demo only, use dva-cli).
+- [Dva Cli](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva](https://github.com/dvajs/dva), a
+lightweight front-end framework based on Redux and React and inspired by [Elm](http://elm-lang.org) and [Choo](https://github.com/yoshuawuyts/choo).
 - [Antd Tools](https://github.com/ant-tool) - Very useful list of tools for Ant Design to create documentation, create new components, build tools and many more.
 - [Antd Tools Docs](http://ant-tool.github.io/) - Documentations for Ant Tools.
 - [iConfig Ant Design](https://github.com/hutxs/iconfig-antd) - Boilerplate for quickly getting a new project up and running with a few useful transforms.
