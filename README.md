@@ -50,7 +50,7 @@ Official projects and resources of Ant Design,
 These are tools and utilities to help build apps using Ant Design,
 
 - [Antd Init](https://github.com/ant-design/antd-init) - Ant Design boilerplate generator (for demo only, use dva-cli).
-- [Dva Cli](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva](https://github.com/dvajs/dva), a
+- [Dva Cli](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva.js](https://github.com/dvajs/dva), a
 lightweight front-end framework based on Redux and React and inspired by [Elm](http://elm-lang.org) and [Choo](https://github.com/yoshuawuyts/choo).
 - [Antd Tools](https://github.com/ant-tool) - Very useful list of tools for Ant Design to create documentation, create new components, build tools and many more.
 - [Antd Tools Docs](http://ant-tool.github.io/) - Documentations for Ant Tools.
@@ -99,7 +99,7 @@ A list of frameworks using Ant Design,
 
 A list of starter projects and boilerplates built with Ant Design,
 
-- [Antd Admin](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and dva.
+- [Antd Admin](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and Dva.js.
 - [React SPA](https://github.com/JasonBai007/reactSPA) - Building SPA with React, Router, ES6, Fetch, Babel, Webpack, Npm, MockJs, FontAwesome, AnimateCSS, Ant Design, LESS and jQuery.
 - [React Admin](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456).
 - [React Redux](https://github.com/Justin-lu/react-redux-antd) - React Redux for CMS/Enterprise class apps (ERP/Admin) built with Ant Design.
