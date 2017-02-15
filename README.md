@@ -45,6 +45,11 @@ Official projects and resources of Ant Design,
 - [Ant Design of Ember](http://idcos.github.io/antd-ember/#/home) - Enterprise-class UI framework based on Ant Design and Emberjs.
 - [Ant Design SVG Icons](http://leungwensen.github.io/svg-icon/#ant) - Project to transform regular icon fonts into SVG format, supporting Ant Design icon fonts.
 
+## Articles
+
+- [Styling React Applications with Ant.Design](https://medium.com/@yoniweisbrod/styling-react-applications-with-ant-design-92b742aab0b0)
+- [Finding a User Interface library](http://waywardmonkeys.org/2016/03/14/finding-a-user-interface-library/)
+
 ## Tools
 
 These are tools and utilities to help build apps using Ant Design,
