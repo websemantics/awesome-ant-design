@@ -61,6 +61,7 @@ lightweight front-end framework based on Redux and React and inspired by [Elm](h
 - [Antd Tools](https://github.com/ant-tool) - Very useful list of tools for Ant Design to create documentation, create new components, build tools and many more.
 - [Antd Tools Docs](http://ant-tool.github.io/) - Documentations for Ant Tools.
 - [iConfig Ant Design](https://github.com/hutxs/iconfig-antd) - Boilerplate for quickly getting a new project up and running with a few useful transforms.
+- [Antd Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=bang.antd-snippets)
 
 ## Related Projects
 
