@@ -34,6 +34,7 @@ Ant Design, a design language for middleware, is refined by Experience Technolog
 - [Applications](#applications)
 - [Frameworks](#frameworks)
 - [Boilerplates](#boilerplates)
+- [Non-JavaScript Libraries](#non-javascript-libraries)
 - [Contributing](#contributing)
 
 ## Resources
@@ -127,6 +128,12 @@ A list of starter projects and boilerplates built with Ant Design,
 - [Dva Ant Admin](https://github.com/jiangbo2015/learn-dva) - A front-end boilerplate built with Dva, Ant-Design
 - [Aspnet Core Antd Boilerplate](https://github.com/bang88/aspnet-core-react-antd-boilerplate) - Server Side Rendering with Asp.net core.
 - [React Redux Universal](https://github.com/subenksaha/react-redux-universal) - Universal/Isomorphic boilerplate using react router 4 and webpack 2.5+. All latest packages.
+
+## Non-JavaScript Libraries
+
+A list of libraries that are written for non-JavaScript langages,
+
+- [Antizer](https://github.com/priornix/antizer) - Ant Design library for [ClojureSript](https://clojurescript.org/), an immutable, functional language for that cross-compiles to JavaScript
 
 ## Contributing
 
