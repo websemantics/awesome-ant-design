@@ -128,6 +128,12 @@ A list of starter projects and boilerplates built with Ant Design,
 - [Aspnet Core Antd Boilerplate](https://github.com/bang88/aspnet-core-react-antd-boilerplate) - Server Side Rendering with Asp.net core.
 - [React Redux Universal](https://github.com/subenksaha/react-redux-universal) - Universal/Isomorphic boilerplate using react router 4 and webpack 2.5+. All latest packages.
 
+## Non-JavaScript Libraries
+
+A list of libraries that are written for non-JavaScript langages,
+
+- [Antizer](https://github.com/priornix/antizer) - Ant Design library for [ClojureSript](https://clojurescript.org/), an immutable, functional language for that cross-compiles to JavaScript
+
 ## Contributing
 
 Your contributions are always welcome! [Click Here to read the guidelines](https://github.com/websemantics/awesome-ant-design/blob/master/contributing.md).
