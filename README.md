@@ -131,9 +131,9 @@ A list of starter projects and boilerplates built with Ant Design,
 
 ## Non-JavaScript Libraries
 
-A list of libraries that are written for non-JavaScript langages,
+A list of libraries that are written for non-JavaScript languages,
 
-- [Antizer](https://github.com/priornix/antizer) - Ant Design library for [ClojureSript](https://clojurescript.org/), an immutable, functional language for that cross-compiles to JavaScript
+- [Antizer](https://github.com/priornix/antizer) - Ant Design library for [ClojureScript](https://clojurescript.org/), an immutable, functional language that cross-compiles to JavaScript.
 
 ## Contributing
 
