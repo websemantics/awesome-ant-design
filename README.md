@@ -41,7 +41,7 @@ Ant Design, a design language for middleware, is refined by Experience Technolog
 
 Official projects and resources of Ant Design,
 
-- [Ant Design](http://ant.design/) - Enterprise-class UI design language and React-based implementation. Efforts to translate the site into [English](http://beta.ant.design) are already paying off and progress can be followed [here](https://github.com/ant-design/ant-design/issues/1471).
+- [Ant Design](http://ant.design/) - Enterprise-class UI design language and React-based implementation.
 - [Ant Design Mobile](http://mobile.ant.design/) - Configurable Mobile UI specification and React-based implementation.
 - [Ant Design of React](http://react-component.github.io/badgeboard/) - Graceful UI components out of the box, based on React.
 - [Ant Design of Ember](http://idcos.github.io/antd-ember/#/home) - Enterprise-class UI framework based on Ant Design and Emberjs.
