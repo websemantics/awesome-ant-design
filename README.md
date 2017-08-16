@@ -74,6 +74,12 @@ Ant Design family of projects,
 - [Ant UX](http://ux.ant.design/) - Make a sitemap template for UX design using [Omnigraffle](https://www.omnigroup.com/omnigraffle), [Sketch](https://www.sketchapp.com/) or [Axure](http://www.axure.com/). This is a library which assists designers to define, refine and finalize the inter-page logic of their products.
 - [Semantic Ant](https://github.com/websemantics/semantic-ant) - Custom theme for building beautiful modern Web apps with the combined awesomeness of Semantic-UI framework and the elegant minimal styles of Ant Design for beautiful and responsive layouts.
 
+## Angular
+
+Projects that are built with Angular and Ant Design.
+
+- [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd), Ant Design of Angular.
+
 ## Vue.js
 
 Projects that are built with Vue.js and Ant Design,
