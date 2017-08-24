@@ -67,25 +67,26 @@ lightweight front-end framework based on Redux and React and inspired by [Elm](h
 
 ## Related Projects
 
-Ant Design family of projects,
+Ant Design family of projects.
 
 - [Grammar of Graphics](https://g2.alipay.com/) - Pure javascript, powerful semantic graph generation tool for big data which provides a set of graphical syntax that lets users build with simple syntax a myriad of charts and integrates a large number of statistical tools, ([Read more](https://github.com/antvis/feedback)).
 - [Ant Visualization](https://antv.alipay.com/) - Professional data visualization specification that aims to put several years of valuable data pattern group work in the process of exploring data visualization to share with all people who need data visualization theory. AntV consists of few parts, data, design specifications and rules for use of the chart, ([Read more](https://github.com/antvis/feedback)).
 - [Ant Motion](http://motion.ant.design/) - Efficient motion design solutions that complies with Ant Design Visual specification with React implementation. Create your own template with this awesome tool provided by the folks at Ant Design [here](http://motion.ant.design/cases/splicing).
 - [Ant UX](http://ux.ant.design/) - Make a sitemap template for UX design using [Omnigraffle](https://www.omnigroup.com/omnigraffle), [Sketch](https://www.sketchapp.com/) or [Axure](http://www.axure.com/). This is a library which assists designers to define, refine and finalize the inter-page logic of their products.
-- [Semantic Ant](https://github.com/websemantics/semantic-ant) - Custom theme for building beautiful modern Web apps with the combined awesomeness of Semantic-UI framework and the elegant minimal styles of Ant Design for beautiful and responsive layouts.
+- [Scaffold Market](http://scaffold.ant.design/) - scaffolds and boilerplates using Ant Design
 
 ## Angular
 
 Projects that are built with Angular and Ant Design.
 
-- [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd), Ant Design of Angular.
+- [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular.
 
 ## Vue.js
 
-Projects that are built with Vue.js and Ant Design,
+Projects that are built with Vue.js and Ant Design.
 
-- [iView](https://github.com/iview/iview), High quality UI Components Library with Vue.js
+- [iView](https://github.com/iview/iview) - High quality UI Components Library with Vue.js
+- [atui]( https://github.com/aliqin/atui) - A Vue.js 2.0 UI Toolkit for Web based on Ant Design
 - [Ant Design of Vue.js](http://okoala.github.io/vue-antd/#!/components) - Vue.js UI components for Ant Design.
 - [Vue.js Beauty](https://github.com/FE-Driver/vue-beauty) - Beautiful UI components build with Vue.js and Ant Design.
 - [Vue.js Ant UI](https://github.com/kokoroX/vue-ant-ui) - Ant Design UI components built in Vue.js.
@@ -93,7 +94,7 @@ Projects that are built with Vue.js and Ant Design,
 
 ## Components
 
-A list of UI components built with Ant Design,
+A list of UI components built with Ant Design.
 
 - [react-lz-editor](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design.
 - [React Grid](https://github.com/kagawagao/react-grid) __[Deprecated]__ - Grid React UI Component based on Ant Design.
@@ -102,20 +103,20 @@ A list of UI components built with Ant Design,
 
 ## Applications
 
-A list of mature apps built with Ant Design,
+A list of mature apps built with Ant Design.
 
 - [Eevee](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
 - [Productivity Application](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
 
 ## Frameworks
 
-A list of frameworks using Ant Design,
+A list of frameworks using Ant Design.
 
 - [R2](https://github.com/dog-days/r2) - Framework to scaffold apps based on [Ant Design React Components](http://ant.design/#/docs/react/introduce) that is built with React and Redux. R2 comes with a page builder, layout manager and many other features that will speed up the development process. Check out the [demo app](https://console.topvdn.com). You will need to register and validate email to view the admin panel.
 
 ## Boilerplates
 
-A list of starter projects and boilerplates built with Ant Design,
+A list of starter projects and boilerplates built with Ant Design.
 
 - [Antd Admin](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and Dva.js.
 - [React SPA](https://github.com/JasonBai007/reactSPA) - Building SPA with React, Router, ES6, Fetch, Babel, Webpack, Npm, MockJs, FontAwesome, AnimateCSS, Ant Design, LESS and jQuery.
@@ -141,7 +142,7 @@ A list of starter projects and boilerplates built with Ant Design,
 
 ## Non-JavaScript Libraries
 
-A list of libraries that are written for non-JavaScript languages,
+A list of libraries that are written for non-JavaScript languages.
 
 - [Antizer](https://github.com/priornix/antizer) - Ant Design library for [ClojureScript](https://clojurescript.org/), an immutable, functional language that cross-compiles to JavaScript.
 
