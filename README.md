@@ -29,6 +29,7 @@ Ant Design, a design language for middleware, is refined by Experience Technolog
 - [Articles](#articles)
 - [Tools](#tools)
 - [Related Projects](#related-projects)
+- [Angular](#angular)
 - [Vue.js](#vuejs)
 - [Components](#components)
 - [Applications](#applications)
