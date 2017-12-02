@@ -36,6 +36,7 @@ Ant Design, a design language for middleware, is refined by Experience Technolog
 - [Frameworks](#frameworks)
 - [Boilerplates](#boilerplates)
 - [Non-JavaScript Libraries](#non-javascript-libraries)
+- [Electron](#electron)
 - [Contributing](#contributing)
 
 ## Resources
@@ -139,6 +140,7 @@ A list of starter projects and boilerplates built with Ant Design.
 - [Dva Ant Admin](https://github.com/jiangbo2015/learn-dva) - A front-end boilerplate built with Dva, Ant-Design
 - [Aspnet Core Antd Boilerplate](https://github.com/bang88/aspnet-core-react-antd-boilerplate) - Server Side Rendering with Asp.net core.
 - [React Redux Universal](https://github.com/subenksaha/react-redux-universal) - Universal/Isomorphic boilerplate using react router 4 and webpack 2.5+. All latest packages.
+
 - [CRA-TS-Antd](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
 - [Ng-Alain](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd).
 
@@ -147,6 +149,11 @@ A list of starter projects and boilerplates built with Ant Design.
 A list of libraries that are written for non-JavaScript languages.
 
 - [Antizer](https://github.com/priornix/antizer) - Ant Design library for [ClojureScript](https://clojurescript.org/), an immutable, functional language that cross-compiles to JavaScript.
+
+## Electron
+
+- [StarCabinet](https://github.com/thundernet8/StarCabinet) - Github Stars-based cross-platform tool based on React, Electronand and Ant Design.
+- [Nowa](https://github.com/nowa-webpack/nowa-gui) - A webpack based front-end plug-in scaffolding and development solution.
 
 ## Contributing
 
