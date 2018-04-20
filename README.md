@@ -110,11 +110,6 @@ A list of mature apps built with Ant Design.
 - [Eevee](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
 - [Productivity Application](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
 
-## Frameworks
-
-A list of frameworks using Ant Design.
-
-- [R2](https://github.com/dog-days/r2) - Framework to scaffold apps based on [Ant Design React Components](http://ant.design/#/docs/react/introduce) that is built with React and Redux. R2 comes with a page builder, layout manager and many other features that will speed up the development process. Check out the [demo app](https://console.topvdn.com). You will need to register and validate email to view the admin panel.
 
 ## Boilerplates
 
