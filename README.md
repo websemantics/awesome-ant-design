@@ -37,6 +37,7 @@ Ant Design, a design language for middleware, is refined by Experience Technolog
 - [Boilerplates](#boilerplates)
 - [Non-JavaScript Libraries](#non-javascript-libraries)
 - [Electron](#electron)
+- [Icons](#icons)
 - [Contributing](#contributing)
 
 ## Resources
@@ -150,6 +151,10 @@ A list of libraries that are written for non-JavaScript languages.
 
 - [StarCabinet](https://github.com/thundernet8/StarCabinet) - Github Stars-based cross-platform tool based on React, Electronand and Ant Design.
 - [Nowa](https://github.com/nowa-webpack/nowa-gui) - A webpack based front-end plug-in scaffolding and development solution.
+
+## Icons
+
+- [Ant Design Icons](https://github.com/fjc0k/ant-design-icons) - The premium icon font from Ant Design and Ant Design Mobile.
 
 ## Contributing
 
