@@ -140,6 +140,7 @@ A list of starter projects and boilerplates built with Ant Design.
 
 - [CRA-TS-Antd](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
 - [Ng-Alain](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd).
+- [DVA-BOOT-ADMIN](https://github.com/LANIF-UI/dva-boot-admin) - Admin Dashboard UI. react 16 + react-router 4 + dva 2 + antd 3 + cra. [Example](https://lanif-ui.github.io/dva-boot-admin)
 
 ## Non-JavaScript Libraries
 
