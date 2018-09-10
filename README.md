@@ -101,6 +101,7 @@ Projects that are built with Vue.js and Ant Design.
 
 A list of UI components built with Ant Design.
 
+- [antd-table-infinity](https://github.com/Leonard-Li777/antd-table-infinity) - An infinite scroll component based on antd table that supports virtual scrolling & high-performance
 - [react-lz-editor](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design.
 - [React Grid](https://github.com/kagawagao/react-grid) **[Deprecated]** - Grid React UI Component based on Ant Design.
 - [Antd Kit](https://github.com/huhulab/antd-kit) - Advanced Ant Design components.
