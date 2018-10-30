@@ -75,7 +75,7 @@ Ant Design family of projects.
 
 - [Grammar of Graphics](https://g2.alipay.com/) - Pure javascript, powerful semantic graph generation tool for big data which provides a set of graphical syntax that lets users build with simple syntax a myriad of charts and integrates a large number of statistical tools, ([Read more](https://github.com/antvis/feedback)).
 - [Ant Visualization](https://antv.alipay.com/) - Professional data visualization specification that aims to put several years of valuable data pattern group work in the process of exploring data visualization to share with all people who need data visualization theory. AntV consists of few parts, data, design specifications and rules for use of the chart, ([Read more](https://github.com/antvis/feedback)).
-- [Ant Motion](http://motion.ant.design/) - Efficient motion design solutions that complies with Ant Design Visual specification with React implementation. Create your own template with this awesome tool provided by the folks at Ant Design [here](http://motion.ant.design/cases/splicing).
+- [Ant Motion](http://motion.ant.design/) - Efficient motion design solutions that complies with Ant Design Visual specification with React implementation.
 - [Ant UX](http://ux.ant.design/) - Make a sitemap template for UX design using [Omnigraffle](https://www.omnigroup.com/omnigraffle), [Sketch](https://www.sketchapp.com/) or [Axure](http://www.axure.com/). This is a library which assists designers to define, refine and finalize the inter-page logic of their products.
 - [Scaffold Market](http://scaffold.ant.design/) - scaffolds and boilerplates using Ant Design
 
