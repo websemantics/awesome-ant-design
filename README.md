@@ -73,7 +73,7 @@ These are tools and utilities to help build apps using Ant Design,
 Here are utilities that can help you customize your theme and ability to change it in browser
 
 - [antd-theme-webpack-plugin](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - A webpack plugin to generate your custom theme file.
-- [antd-theme-generator] (https://github.com/mzohaibqc/antd-theme-generator) - A simple script to generate theme specific less file which can be used in any environment.
+- [antd-theme-generator](https://github.com/mzohaibqc/antd-theme-generator) - A simple script to generate theme specific less file which can be used in any environment.
 
 ## Related Projects
 
@@ -113,7 +113,7 @@ A list of UI components built with Ant Design.
 - [Antd Kit](https://github.com/huhulab/antd-kit) - Advanced Ant Design components.
 - [antd-data-table](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
 - [ngx-recursive-form](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form based on json input built with Ant Design.
-- [antd-amplify-react] (https://github.com/mzohaibqc/antd-amplify-react) - A collection of Ant Design component for Aws Amplify for Authentication
+- [antd-amplify-react](https://github.com/mzohaibqc/antd-amplify-react) - A collection of Ant Design component for Aws Amplify for Authentication
 
 ## Applications
 
