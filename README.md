@@ -91,18 +91,18 @@ Projects that are built with Angular and Ant Design.
 
 - [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular.
 - [NG-ZORRO-Mobile](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - Ant Design Mobile of Angular
+- [ng-alain](https://ng-alain.com/) - ng-zorro-antd admin panel front-end framework.
 
 ## Vue.js
 
 Projects that are built with Vue.js and Ant Design.
 
-- [iView](https://github.com/iview/iview) - High quality UI Components Library with Vue.js
-- [atui](https://github.com/aliqin/atui) - A Vue.js 2.0 UI Toolkit for Web based on Ant Design
-- [Ant Design of Vue.js](http://okoala.github.io/vue-antd/#!/components) - Vue.js UI components for Ant Design.
+- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - Ant Design of Vue.js 2.5.0+.
 - [Vue.js Beauty](https://github.com/FE-Driver/vue-beauty) - Beautiful UI components build with Vue.js and Ant Design.
 - [Vue.js Ant UI](https://github.com/kokoroX/vue-ant-ui) - Ant Design UI components built in Vue.js.
 - [Ant Design Vue](https://github.com/lileilei/Ant-design-vue) - Vue.js version of Ant Design.
-- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - Ant Design of Vue.js 2.5.0+.
+- [antue](https://github.com/zzuu666/antue) - A set of enterprise-class Vue UI components, following the Ant Design specification completely.
+- [vue-antd-admin](https://github.com/iczer/vue-antd-admin) - Ant Design Pro's implementation with Vue
 
 ## Components
 
