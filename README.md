@@ -148,7 +148,6 @@ A list of starter projects and boilerplates built with Ant Design.
 - [Dva Ant Admin](https://github.com/jiangbo2015/learn-dva) - A front-end boilerplate built with Dva, Ant-Design
 - [Aspnet Core Antd Boilerplate](https://github.com/bang88/aspnet-core-react-antd-boilerplate) - Server Side Rendering with Asp.net core.
 - [React Redux Universal](https://github.com/subenksaha/react-redux-universal) - Universal/Isomorphic boilerplate using react router 4 and webpack 2.5+. All latest packages.
-
 - [CRA-TS-Antd](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
 - [Ng-Alain](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd).
 - [Typescript React With Mobx Starter](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack).
@@ -167,7 +166,15 @@ A list of libraries that are written for non-JavaScript languages.
 
 ## Icons
 
+- [Official Ant Design Icons](http://github.com/ant-design/ant-design-icons)
 - [Ant Design Icons](https://github.com/fjc0k/ant-design-icons) - The premium icon font from Ant Design and Ant Design Mobile.
+
+## Design Tools and Resources
+
+- [Kitchen](http://kitchen.alipay.com/) - Sketch Plugin with suites of functions to enhance designers
+- [Ant Design Lirary](http://library.ant.design/) - Ant Design Axure Library
+- [Ant UX](http://ux.ant.design/) - Sitemap templates for ux design in OG, Sketch, Axure, Affinity, Adobe XD.
+- [Ant Design Design Resources](https://ant.design/docs/spec/download) - Sketch Symbols
 
 ## Contributing
 
