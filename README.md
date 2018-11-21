@@ -173,7 +173,7 @@ A list of libraries that are written for non-JavaScript languages.
 ## Design Tools and Resources
 
 - [Kitchen](http://kitchen.alipay.com/) - Sketch Plugin with suites of functions to enhance designers
-- [Ant Design Lirary](http://library.ant.design/) - Ant Design Axure Library
+- [Ant Design Library](http://library.ant.design/) - Ant Design Axure Library
 - [Ant UX](http://ux.ant.design/) - Sitemap templates for ux design in OG, Sketch, Axure, Affinity, Adobe XD.
 - [Ant Design Design Resources](https://ant.design/docs/spec/download) - Sketch Symbols
 
