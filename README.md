@@ -154,6 +154,7 @@ A list of starter projects and boilerplates built with Ant Design.
 - [Ng-Alain](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd).
 - [Typescript React With Mobx Starter](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack).
 - [React-PWA, PawJS and AntDesign](https://github.com/Atyantik/example-pawjs-ant-design) - A pluggable boilerplate with SEO, PWA, SSR, Skeleton, Placeholders, etc. as some of its many features.
+- [Create React App + Ant Design](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting
 
 ## Non-JavaScript Libraries
 
