@@ -161,6 +161,7 @@ A list of starter projects and boilerplates built with Ant Design.
 A list of libraries that are written for non-JavaScript languages.
 
 - [Antizer](https://github.com/priornix/antizer) - Ant Design library for [ClojureScript](https://clojurescript.org/), an immutable, functional language that cross-compiles to JavaScript.
+- [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
 
 ## Electron
 
