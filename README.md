@@ -76,8 +76,10 @@ Here are utilities that can help you customize your theme and ability to change 
 - [antd-theme-webpack-plugin](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - A webpack plugin to generate your custom theme file.
 - [antd-theme-generator](https://github.com/mzohaibqc/antd-theme-generator) - A simple script to generate theme specific less file which can be used in any environment.
 
-### Dark Theme
+### Themes
+
 - [ant-design-dark-theme](https://github.com/ant-design/ant-design-dark-theme) - Dark theme variables of Ant Design.
+- [ant-design-aliyun-theme](https://github.com/ant-design/ant-design-aliyun-theme) - Aliyun console theme variables of Ant Design.
 - [ant-dark-theme](https://github.com/Kuechlin/ant-dark-theme) - Dark theme variables of Ant Design.
 
 ## Related Projects
