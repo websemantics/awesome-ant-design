@@ -34,6 +34,7 @@ Ant Design, a design language for middleware, is refined by Experience Technolog
   - [Themes](#themes)
 - [Related Projects](#related-projects)
 - [Angular](#angular)
+- [Hyperstack](#hyperstack)
 - [Vue.js](#vuejs)
 - [Components](#components)
 - [React Hooks](#react-hooks)
@@ -105,6 +106,12 @@ Projects that are built with Angular and Ant Design.
 - [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular.
 - [NG-ZORRO-Mobile](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - Ant Design Mobile of Angular
 - [ng-alain](https://ng-alain.com/) - ng-zorro-antd admin panel front-end framework.
+
+## Hyperstack 
+
+Projects built using [Hyperstack](https://hyperstack.org) and Ant Design.
+
+- [ant-magic](https://github.com/catmando/ant-magic) - A small Todo App written in 100% Ruby using lots of Ant Design components
 
 ## Vue.js
 
