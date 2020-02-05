@@ -72,6 +72,7 @@ These are tools and utilities to help build apps using Ant Design,
 - [Antd Tools](https://github.com/ant-tool) - Very useful list of tools for Ant Design to create documentation, create new components, build tools and many more.
 - [Antd Tools Docs](http://ant-tool.github.io/) - Documentations for Ant Tools.
 - [iConfig Ant Design](https://github.com/hutxs/iconfig-antd) - Boilerplate for quickly getting a new project up and running with a few useful transforms.
+- [vscode-antd-rush](https://github.com/fi3ework/vscode-antd-rush) - Rush to Ant Design in VS Code
 - [Antd Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=bang.antd-snippets)
 - [Generator Antd Pro](https://github.com/codetrial/generator-antd-pro) - An easy way to build your Ant Design Pro application.
 - [formik-antd](https://github.com/jannikbuschke/formik-antd) - Declarative bindings for the popular form state management library Formik.
