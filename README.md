@@ -120,6 +120,12 @@ Projects that are built with Vue.js and Ant Design.
 - [antue](https://github.com/zzuu666/antue) - A set of enterprise-class Vue UI components, following the Ant Design specification completely.
 - [vue-antd-admin](https://github.com/iczer/vue-antd-admin) - Ant Design Pro's implementation with Vue
 
+## Blazor
+
+Projects that are built with Blazor WebAssembly and Ant Design.
+
+- [ant-design-blazor](https://github.com/ElderJames/ant-design-blazor) - Ant Design of Blazor(both Server-side and WebAssembly).
+
 ## Components
 
 A list of UI components built with Ant Design.
