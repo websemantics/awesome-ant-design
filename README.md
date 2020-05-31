@@ -150,6 +150,7 @@ A list of UI components built with Ant Design.
 A list of mature apps built with Ant Design.
 
 - [Eevee](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
+- [Feednext](https://github.com/feednext/feednext) - A Social Media platform. The client side is based React, Ant Design.
 - [Productivity Application](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
 
 ## Boilerplates
