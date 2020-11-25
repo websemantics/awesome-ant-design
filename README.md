@@ -140,6 +140,7 @@ A list of UI components built with Ant Design.
 - [ngx-recursive-form](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form based on json input built with Ant Design.
 - [antd-amplify-react](https://github.com/mzohaibqc/antd-amplify-react) - A collection of Ant Design component for Aws Amplify for Authentication
 - [antd-password-input-strength](https://github.com/Kombustor/antd-password-input-strength) - AntD Input component with password-strength indicator.
+- [antd-jalali](https://github.com/saeedrahimi/antd-jalali) - A wrapper for ant-design `date-picker` and `calendar` to support Jalali calendar system.
 
 ## React Hooks
 
