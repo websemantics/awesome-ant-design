@@ -132,6 +132,7 @@ Projects that are built with Blazor WebAssembly and Ant Design.
 
 A list of UI components built with Ant Design.
 
+- [antd-group-slider](https://github.com/huyennbl/antd-group-slider) - A group of sliders that help input data with multiple ranges & description. Have data sync between sliders to improve UX, avoid accidental missing range during inputing range data.
 - [antd-table-infinity](https://github.com/Leonard-Li777/antd-table-infinity) - An infinite scroll component based on antd table that supports virtual scrolling & high-performance
 - [react-lz-editor](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design.
 - [React Grid](https://github.com/kagawagao/react-grid) **[Deprecated]** - Grid React UI Component based on Ant Design.
