@@ -187,7 +187,7 @@ A list of starter projects and boilerplates built with Ant Design.
 - [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack React + Ant Design applications with MongoDB, SQL or Firebase Firestore.
 - [The Green Meal](https://github.com/VincentCordobes/the-green-meal) - Next.js, PostgreSQL demo app written in TypeScript.
 - [react-vite-admin](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, Typescript, Axios.
-- 
+
 ## Non-JavaScript Libraries
 
 A list of libraries that are written for non-JavaScript languages.
