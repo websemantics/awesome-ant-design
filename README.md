@@ -86,6 +86,7 @@ Here are utilities that can help you customize your theme and ability to change 
 - [antd-theme-webpack-plugin](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - A webpack plugin to generate your custom theme file.
 - [antd-theme-generator](https://github.com/mzohaibqc/antd-theme-generator) - A simple script to generate theme specific less file which can be used in any environment.
 - [dynamic-antd-theme](https://github.com/luffyZh/dynamic-antd-theme) - A simple plugin to dynamic change ant-design theme whether less or css.
+- [storybook-addon-customize-antd-theme](https://github.com/letshare/storybook-addon-customize-antd-theme) - a Storybook addon help you visually customize an ant design theme.
 
 ### Themes
 
