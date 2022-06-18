@@ -110,6 +110,8 @@ Projects that are built with Angular and Ant Design.
 - [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular.
 - [NG-ZORRO-Mobile](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - Ant Design Mobile of Angular
 - [ng-alain](https://ng-alain.com/) - ng-zorro-antd admin panel front-end framework.
+- [ng-ant-admin](https://github.com/huajian123/ng-ant-admin) - The Admin Template imitating Ant Design Pro.
+
 
 ## Vue.js
 
