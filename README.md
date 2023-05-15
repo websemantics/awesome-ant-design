@@ -143,6 +143,7 @@ A list of UI components built with Ant Design.
 - [antd-amplify-react](https://github.com/mzohaibqc/antd-amplify-react) - A collection of Ant Design component for Aws Amplify for Authentication
 - [antd-password-input-strength](https://github.com/Kombustor/antd-password-input-strength) - AntD Input component with password-strength indicator.
 - [antd-amiya](https://github.com/viewweiwu/amiya) - Page level components and with table and form.
+- [antd-phone-input](https://github.com/ArtyomVancyan/antd-phone-input) - Advanced, highly customizable phone input component for Ant Design.
 
 ## React Hooks
 
