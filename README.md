@@ -78,6 +78,7 @@ These are tools and utilities to help build apps using Ant Design,
 - [formik-antd](https://github.com/jannikbuschke/formik-antd) - Declarative bindings for the popular form state management library Formik.
 - [Zaku](https://github.com/limichange/zaku) - JSX-based UI editor, easy way to build page and generate antd code.
 - [Antd-Pro-Generator for VS Code](https://github.com/garrett12138/antd-pro-generator) Generate Service/Mock/Model from Swagger2.0 or OpenApi3.x docs for Ant Design Pro.
+- [Ruyi Design Assistant](https://www.figma.com/community/plugin/1192146318523533547/) Ruyi Design Assistant helps you efficiently use React component libraries(AntDesign) and Design Tokens for design in Figma, and easily get production-level component code.
 
 ## Theming
 
