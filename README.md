@@ -132,6 +132,10 @@ Projects that are built with Blazor WebAssembly and Ant Design.
 - [ant-design-blazor](https://github.com/ElderJames/ant-design-blazor) - Ant Design of Blazor(both Server-side and WebAssembly).
 - [Blazorise](https://github.com/stsrki/Blazorise) - AntDesign support for Blazorise and Blazor [Demo](https://antdesigndemo.blazorise.com/)
 
+## .NET/Avalonia
+Projects that are built with .NET/Avalonia and Ant Design.
+- [AtomUI](https://github.com/chinware/AtomUI) - Ant Design of .NET/Avalonia, Full-stack cross-platform desktop software framework.
+
 ## Components
 
 A list of UI components built with Ant Design.
