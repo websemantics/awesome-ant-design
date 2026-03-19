@@ -166,6 +166,7 @@ A list of mature apps built with Ant Design.
 A list of starter projects and boilerplates built with Ant Design.
 
 - [Ant Design Pro](http://pro.ant.design/) - An out-of-box UI solution for enterprise applications :fire::fire::fire:
+- [Spring Ant](https://github.com/HKPC-1967/spring-ant) - Ant Design Pro + Spring Boot. Quickly building an admin-panel web application.
 - [Scaffold Market](http://scaffold.ant.design/) - scaffolds and boilerplates using Ant Design
 - [Antd Admin](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and Dva.js.
 - [Meteor Antd Boilerplate](https://github.com/elmarti/meteor-antd-boilerplate) - A basic social network built using Antd and Meteor. [Example](https://antdmeteor.herokuapp.com/login)
