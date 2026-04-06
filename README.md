@@ -56,6 +56,7 @@ Official projects and resources of Ant Design.
 - [Ant Design Mobile](http://mobile.ant.design/) - Configurable Mobile UI specification and React-based implementation.
 - [Ant Design of React](http://react-component.github.io/badgeboard/) - Graceful UI components out of the box, based on React.
 - [Ant Design SVG Icons](http://leungwensen.github.io/svg-icon/#ant) - Project to transform regular icon fonts into SVG format, supporting Ant Design icon fonts.
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Ant Design workflow orchestration, automated React UI component management, and multi-agent coordination. MIT licensed.
 
 ## Articles
 
