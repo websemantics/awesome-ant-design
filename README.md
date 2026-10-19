@@ -219,6 +219,7 @@ A list of libraries that are written for non-JavaScript languages.
 - [Ant Design Library](http://library.ant.design/) - Ant Design Axure Library
 - [Ant UX](http://ux.ant.design/) - Sitemap templates for ux design in OG, Sketch, Axure, Affinity, Adobe XD.
 - [Ant Design Design Resources](https://ant.design/docs/spec/download) - Sketch Symbols
+- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — MIT-licensed, dependency-free Python pipeline that generates memorial shadow box SVGs with an editable name plate (you type the name inside Cricut, no custom order needed) plus original 7-layer mandala bundles; one file per physical layer, 6500px PNG renders, quality gates and a static storefront, running entirely on GitHub Actions.
 
 ## Other
 
